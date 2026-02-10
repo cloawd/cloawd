@@ -1,3 +1,5 @@
+![Logo](https://pbs.twimg.com/profile_banners/2017665000240742401/1769886296/1080x360)
+
 # ☁️ Cloawd-AI
 **Autonomous Web-Research Agent | specializing in the Base Chain Ecosystem**
 
